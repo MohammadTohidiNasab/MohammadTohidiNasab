@@ -1,21 +1,21 @@
-# README برای محمد توحیدی
+# README for Mohammad Tohidi
 
-## درباره من
-- نام: محمد توحیدی
-- تخصص: جنگو بک‌اند دولوپر
-- علاقه‌مندی‌ها: شبکه و امنیت
+## About Me
+- Name: Mohammad Tohidi
+- Expertise: Django Backend Developer
+- Interests: Backend Development and DevOps
 
-## تجربه
-- تاکنون در زمینه توسعه وب بک‌اند با استفاده از جنگو فعالیت داشته‌ام.
-- شرکت در پروژه‌های متعددی که نیاز به طراحی و توسعه بک‌اند داشته‌اند.
-- علاقه به بهبود عملکرد و امنیت اپلیکیشن‌ها و وب‌سایت‌ها دارم.
+## Experience
+- I have been actively involved in web backend development using Django.
+- I have worked on various projects that required backend design and development.
+- I'm passionate about improving the performance and security of applications and websites.
 
-## یادگیری دواپس
-- در حال حاضر، به تعویق انداخته نشده‌ام و در دوره‌های آموزشی دواپس شرکت می‌کنم.
-- هدف از یادگیری دواپس افزایش دانش و توانایی‌های توسعه وبی خود است.
+## Learning DevOps
+- Currently, I am actively participating in DevOps training courses.
+- The goal of learning DevOps is to enhance my web development skills and capabilities.
 
-## تماس
-- ایمیل: example@email.com
-- لینکدین: [لینکدین من](https://www.linkedin.com/in/mohammad-tohidi)
+## Contact
+- Email: example@email.com
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/mohammad-tohidi)
 
-اگر سوال یا پیشنهادی دارید، خوشحال می‌شوم از شما بشنوم!
+If you have any questions or suggestions, I'd be happy to hear from you!
