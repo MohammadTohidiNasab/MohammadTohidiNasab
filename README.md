@@ -1,5 +1,3 @@
-# README for Mohammad Tohidi
-
 ## About Me
 - My name is : Mohammad Tohidi
 - Expertise   :  Django Backend Developer
