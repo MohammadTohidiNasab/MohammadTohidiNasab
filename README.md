@@ -1,9 +1,9 @@
 # README for Mohammad Tohidi
 
 ## About Me
-- Name: Mohammad Tohidi
-- Expertise: Django Backend Developer
-- Interests: Backend Development and DevOps
+- My Name Is: Mohammad Tohidi
+- Expertise : Django Backend Developer
+- Interests : Backend Development and DevOps
 
 ## Experience
 - I have been actively involved in web backend development using Django.
