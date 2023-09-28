@@ -15,7 +15,7 @@
 - The goal of learning DevOps is to enhance my web development skills and capabilities.
 
 ## Contact
-- Email: example@email.com
+- Email: mohammadtohidi.mtn@gmail.com
 - LinkedIn: [My LinkedIn]([https://www.linkedin.com/in/mohammad-tohidi](https://www.linkedin.com/in/mohammad-tohidi-84a0b025a/))
 
 If you have any questions or suggestions, I'd be happy to hear from you!
