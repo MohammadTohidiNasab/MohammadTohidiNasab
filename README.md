@@ -16,6 +16,6 @@
 
 ## Contact
 - Email: mohammadtohidi.mtn@gmail.com
-- LinkedIn: ([[https://www.linkedin.com/in/mohammad-tohidi](https://www.linkedin.com/in/mohammad-tohidi-84a0b025a/)](https://www.linkedin.com/in/mohammad-tohidi-84a0b025a/))
+- LinkedIn: ((https://www.linkedin.com/in/mohammad-tohidi-84a0b025a/))
 
 If you have any questions or suggestions, I'd be happy to hear from you!
